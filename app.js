@@ -59,19 +59,19 @@ var guess = Number(stringGuess);
 
 // Check if the guess is correct 
 if (guess === stringGuess) {
-    alert("Your Guess is correct")
+    alert("Your Guess is correct");
 }
 
 // Check if the guess is higher //
 
 else if (guess > stringGuess) {
-    alert("You Cunt, You guessed to high")
+    alert("You Cunt, You guessed to high");
 }
 
 // Check if the guess is lower //
 
-else (guess < stringGuess)  {
-    alert("you guessed to low fck")
+else   {
+    alert("you guessed to low fck");
 }
 
 
